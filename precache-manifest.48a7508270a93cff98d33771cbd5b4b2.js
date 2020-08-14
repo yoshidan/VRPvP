@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e67ac834ea5509648c2e8aa83333d892",
+    "revision": "e687f6d391da92cb048b78f88f213ef0",
     "url": "/VRPvP/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VRPvP/static/js/2.764a6e14.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7879f8751b1c3de254cd",
-    "url": "/VRPvP/static/js/main.8ab36e99.chunk.js"
+    "revision": "3edea6d4f989fab0ee43",
+    "url": "/VRPvP/static/js/main.4fa09017.chunk.js"
   },
   {
     "revision": "fa392e306876a11094d1",
