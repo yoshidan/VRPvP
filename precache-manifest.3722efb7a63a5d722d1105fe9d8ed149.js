@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b020d25842db36fb8d08c5995da7d81c",
+    "revision": "367e661e67c0e804afc9ee4d1db3ed3c",
     "url": "/VRPvP/index.html"
   },
   {
