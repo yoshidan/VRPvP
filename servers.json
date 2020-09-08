@@ -1,0 +1,8 @@
+{
+  "control": [
+    "wss://vrpvpcontrol.rtc-spg-stg.net"
+  ],
+  "realtime": [
+    "vrpvprealtime.rtc-spg-stg.net"
+  ]
+}
