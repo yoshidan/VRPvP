@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VRPvP/precache-manifest.7d09f49a0b2cca065b6dcd5e915044b9.js"
+  "/VRPvP/precache-manifest.b2e86c1e156aab9ac0db2ad2e6e7e4b1.js"
 );
 
 self.addEventListener('message', (event) => {

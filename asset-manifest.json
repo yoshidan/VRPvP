@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/VRPvP/static/js/main.a85f5d02.chunk.js",
+    "main.js": "/VRPvP/static/js/main.3fb3aa52.chunk.js",
     "runtime-main.js": "/VRPvP/static/js/runtime-main.4f105740.js",
     "static/js/2.764a6e14.chunk.js": "/VRPvP/static/js/2.764a6e14.chunk.js",
     "index.html": "/VRPvP/index.html",
-    "precache-manifest.7d09f49a0b2cca065b6dcd5e915044b9.js": "/VRPvP/precache-manifest.7d09f49a0b2cca065b6dcd5e915044b9.js",
+    "precache-manifest.b2e86c1e156aab9ac0db2ad2e6e7e4b1.js": "/VRPvP/precache-manifest.b2e86c1e156aab9ac0db2ad2e6e7e4b1.js",
     "service-worker.js": "/VRPvP/service-worker.js",
     "static/js/2.764a6e14.chunk.js.LICENSE.txt": "/VRPvP/static/js/2.764a6e14.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4f105740.js",
     "static/js/2.764a6e14.chunk.js",
-    "static/js/main.a85f5d02.chunk.js"
+    "static/js/main.3fb3aa52.chunk.js"
   ]
 }
